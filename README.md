@@ -15,24 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 I'm a software engineer with 10+ years of experience, specializing in backend development, AI, ML, NLP, data science, and complex algorithms.
+👋 I'm a software engineer and researcher with experience in backend systems, R&D, data science, AI/ML, and NLP. 
 
 🌍 I'm based in Italy 🇮🇹. Originally from Moldova 🇲🇩, I've spent some time in Spain 🇪🇸, Belgium 🇧🇪, and Poland 🇵🇱. I've been working in English with international teams since 2011, remotely since 2014.
 
-💾 My programming journey started with BASIC, and I've explored languages ranging from Assembly to Prolog. These days, I mostly write in Python, but I'm always expanding my tooklit.
+💾 I started programming with BASIC and explored languages from Assembly to Prolog. These days, I mostly write in Python 🐍​.
 
-🚀 I’m always eager to learn something new. Currently, I'm diving deeper into AI and exploring Rust 🦀.
+🚀 I enjoy learning new things. Lately, I've been exploring AI and learning Rust 🦀.
 
-💡 I'm also interested in open source! 
+💡 I'm also interested in open-source projects.
 
 <!-- Here are some projects I've started contributing to: -->
 
 ----
 
-### 🔨 My recent pull requests
+### 🔨 Examples of my pull requests
 
 - [Upgrade to Pydantic 2.8.2](https://github.com/harmonydata/harmony/pull/51) <sup>in [harmonydata/harmony](https://github.com/harmonydata/harmony)</sup>
 - [Upgrade Harmony API to Pydantic v2](https://github.com/harmonydata/harmonyapi/pull/8) <sup>in [harmonydata/harmonyapi](https://github.com/harmonydata/harmonyapi)</sup>
+- [Make sure `test_remote_pdb` pass with all optimization levels](https://github.com/python/cpython/pull/136788) <sup>in [python/cpython](https://github.com/python/cpython)</sup>
+- [rename `pyo3::prepare_freethreaded_python` to `Python::initialize`](https://github.com/PyO3/pyo3/pull/5247) <sup>in [PyO3/pyo3](https://github.com/PyO3/pyo3)</sup>
+- [Improve the activity instructions in `print_display`](https://github.com/rust-lang/rust-by-example/pull/1948) <sup>in [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example)</sup>
 - [Add `hyperfine` installation instructions; update `hyperfine` code samples](https://github.com/astral-sh/ruff/pull/13034) <sup>in [astral-sh/ruff](https://github.com/astral-sh/ruff/pull/13034)</sup>
 - [chore: rename `_expr` to `_compliant_expr` in `PandasLikeExpr`](https://github.com/narwhals-dev/narwhals/pull/1527) <sup>in [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals)</sup>
 - [chore: rename `series` and `expr` to `_compliant` for Arrow, Polars, and Dask](https://github.com/narwhals-dev/narwhals/pull/1537) <sup>in [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals)</sup>
